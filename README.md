@@ -25,8 +25,8 @@
 
 <h3 align="left">GitHub Metrics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhagarwal302&show_icons=true&locale=en" alt="rishabhagarwal302 summary" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhagarwal302&show_icons=true&locale=en&layout=compact" alt="rishabhagarwal302 languages" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rishabhagarwal302&show_icons=true&locale=en" alt="rishabhagarwal302 summary" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=rishabhagarwal302&show_icons=true&locale=en&layout=compact" alt="rishabhagarwal302 languages" height="150" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhagarwal302&" alt="rishabhagarwal302 streak" />
