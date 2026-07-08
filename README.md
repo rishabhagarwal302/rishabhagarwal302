@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Agrawal</h1>
 <h3 align="center">Python enthusiast diving deep into AI/ML & Software Development | Logical Thinker.</h3>
-
+<img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhagarwal302" alt="rishabhagarwal302" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rishabh_7365" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh_7365?logo=twitter&style=for-the-badge" alt="rishabh_7365" /></a> </p>
